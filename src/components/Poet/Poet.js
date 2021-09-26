@@ -14,6 +14,7 @@ const Poet = () => {
             .then(res => res.json())
             .then(data => setPoet(data));
     }, []);
+
     const handleAddToCart = (poet) => {
         const newCart = [...cart, poet]
         setCart(newCart)

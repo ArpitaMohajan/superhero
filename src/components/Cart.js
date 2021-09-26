@@ -11,10 +11,17 @@ const Cart = (props) => {
             <div className="col-sm-8">
                 <div className="card">
                     <div className="card-body">
-                        <h3>Order Summary</h3>
-                        <p>Items Order:{props.cart.length}</p>
-                        <h3>Total:{totals.toFixed(2)}</h3>
-                        <a className="btn btn-success">Buy Now</a>
+                        <h3>Tourist Place</h3>
+                        <p>Tour:{props.cart.length}</p>
+                        <h3>Total Cost:{totals.toFixed(2)}</h3>
+
+                        <button type="button" className="btn btn-success text-light ">Buy Now</button>
+
+                        <ul>
+                            {
+                                cart.map(p => <li>{p.name}</li>)
+                            }
+                        </ul>
                     </div>
                 </div>
             </div>
