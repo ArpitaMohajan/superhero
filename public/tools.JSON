@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Fountain of Wealth, Suntec City",
+        "countruCode": "SG",
+        "country": "Singapore",
+        "cost": 610,
+        "dialCode": "+65",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-1.jpg"
+    },
+    {
+        "name": "Bellagio Fountains",
+        "countryCode": "U.S.A",
+        "country": "Las Vegas",
+        "cost": 600,
+        "dialCode": "+1",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-2.jpg"
+    },
+    {
+        "name": "The Vaillancourt Fountain",
+        "countryCode": "U.S.A",
+        "country": "San Francisco",
+        "cost": 685,
+        "dialCode": "+1",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-4.jpg"
+    },
+    {
+        "name": "Gardens Of Versailles",
+        "CountryCode": "FR",
+        "country": "France",
+        "cost": 670,
+        "dialCode": "+33",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-5.jpg"
+    },
+    {
+        "name": "Archibald Fountain",
+        "countryCode": "AU",
+        "country": "Australia",
+        "cost": 610,
+        "dialCode": "+61",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-6.jpg"
+    },
+    {
+        "name": "Swarovski Fountain",
+        "countryCode": "AT",
+        "country": "Austria",
+        "cost": 605,
+        "dialCode": "+43",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-7.jpg"
+    },
+    {
+        "name": "Moonlight Rainbow Fountain",
+        "countryCode": "KOR",
+        "country": "South Korea",
+        "cost": 660,
+        "dialCode": "+82",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-8.jpg"
+    },
+    {
+        "name": "Trevi Fountain, Rome",
+        "countryCode": "ITA",
+        "country": " Italy",
+        "cost": 682,
+        "dialCode": "+39",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-9.jpg"
+    },
+    {
+        "name": "Big Wild Goose Pagoda Music Fountain",
+        "countryCode": "CHN",
+        "country": "China",
+        "cost": 683,
+        "dialCode": "+86",
+        "img": "http://dailynewsdig.com/wp-content/uploads/2014/05/10-Of-The-Most-Spectacular-Water-Fountains-From-Around-The-World-10.jpg"
+    }
+]

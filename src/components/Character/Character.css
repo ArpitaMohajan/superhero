@@ -1,0 +1,16 @@
+.card-body{
+    font-size: medium;
+    
+
+}
+.card{
+background-color:rgb(230, 215, 217);
+    margin: 5px;
+    text-align: justify;
+    text-decoration: rebeccapurple;
+  
+}
+.card-title{
+    text-decoration: rebeccapurple;
+}
+
