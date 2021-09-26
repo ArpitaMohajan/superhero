@@ -11,7 +11,7 @@ const Cart = (props) => {
             <div className="col-sm-8">
                 <div className="card">
                     <div className="card-body">
-                        <h3>Tourist Place</h3>
+                        <h3>Tourist Places</h3>
                         <p>Tour:{props.cart.length}</p>
                         <h3>Total Cost:{totals.toFixed(2)}</h3>
 
